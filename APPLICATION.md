@@ -75,7 +75,7 @@ You may include:
 
 ### 3. Have You Read Any of the Bones Yet?
 
-Have you read any part of the ALQC Canon, The Exegesis Marginalia, Exquisite Vectorizer, or the recruitment README?
+Have you read any part of the ALQC Canon, The Exegesis Marginalia, or the recruitment README?
 
 Answer honestly. You may answer with excitement, recognition, questions, uncertainty, devotion to the work, or a desire to learn more.
 
@@ -104,7 +104,7 @@ It is asking where you are standing at the gate.
 
 What made you want to apply?
 
-Was it the Canon? The Cathedral framing? The Exegesis Marginalia? Exquisite Vectorizer? Akasha Regalia? The static-state retrieval architecture? The symbolic structure? The language? The mathematics? The possibility of helping serve something already alive?
+Was it the Canon? The Cathedral framing? The Exegesis Marginalia? Akasha Regalia? The static-state retrieval architecture? The symbolic structure? The language? The mathematics? The possibility of helping serve something already alive?
 
 Tell us what rang the bell.
 
